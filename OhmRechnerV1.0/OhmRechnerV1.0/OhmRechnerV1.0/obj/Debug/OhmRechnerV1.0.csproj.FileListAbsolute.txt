@@ -1,0 +1,12 @@
+I:\Schule\Info GSO\Projekte\OhmRechnerV1.0\OhmRechnerV1.0\bin\Debug\OhmRechnerV1.0.exe.config
+I:\Schule\Info GSO\Projekte\OhmRechnerV1.0\OhmRechnerV1.0\obj\Debug\OhmRechnerV1.0.csprojResolveAssemblyReference.cache
+I:\Schule\Info GSO\Projekte\OhmRechnerV1.0\OhmRechnerV1.0\bin\Debug\OhmRechnerV1.0.exe
+I:\Schule\Info GSO\Projekte\OhmRechnerV1.0\OhmRechnerV1.0\bin\Debug\OhmRechnerV1.0.pdb
+I:\Schule\Info GSO\Projekte\OhmRechnerV1.0\OhmRechnerV1.0\obj\Debug\OhmRechnerV1.0.exe
+I:\Schule\Info GSO\Projekte\OhmRechnerV1.0\OhmRechnerV1.0\obj\Debug\OhmRechnerV1.0.pdb
+C:\Users\LEska\Desktop\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0\bin\Debug\OhmRechnerV1.0.exe.config
+C:\Users\LEska\Desktop\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0\obj\Debug\OhmRechnerV1.0.exe
+C:\Users\LEska\Desktop\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0\obj\Debug\OhmRechnerV1.0.pdb
+C:\Users\LEska\Desktop\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0\bin\Debug\OhmRechnerV1.0.exe
+C:\Users\LEska\Desktop\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0\bin\Debug\OhmRechnerV1.0.pdb
+C:\Users\LEska\Desktop\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0\obj\Debug\OhmRechnerV1.0.csprojResolveAssemblyReference.cache
