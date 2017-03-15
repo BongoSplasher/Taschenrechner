@@ -10,6 +10,3 @@ C:\Users\LEska\Desktop\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0\obj\Debug\Oh
 C:\Users\LEska\Desktop\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0\bin\Debug\OhmRechnerV1.0.exe
 C:\Users\LEska\Desktop\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0\bin\Debug\OhmRechnerV1.0.pdb
 C:\Users\LEska\Desktop\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0\obj\Debug\OhmRechnerV1.0.csprojResolveAssemblyReference.cache
-C:\Users\iah51zheng\Source\Repos\Taschenrechner2\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0\bin\Debug\OhmRechnerV1.0.exe.config
-C:\Users\iah51zheng\Source\Repos\Taschenrechner2\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0\obj\Debug\OhmRechnerV1.0.exe
-C:\Users\iah51zheng\Source\Repos\Taschenrechner2\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0\obj\Debug\OhmRechnerV1.0.pdb

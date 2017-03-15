@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taschenrechner", "Taschenrechner\Taschenrechner.csproj", "{2A3905B8-3C4B-445D-8F2D-34A2A22FFED5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhmRechnerV1.0", "..\..\..\..\Desktop\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0\OhmRechnerV1.0.csproj", "{7D61FC3E-9CD7-4263-90B4-98D741D7A2E5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{2A3905B8-3C4B-445D-8F2D-34A2A22FFED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A3905B8-3C4B-445D-8F2D-34A2A22FFED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A3905B8-3C4B-445D-8F2D-34A2A22FFED5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7D61FC3E-9CD7-4263-90B4-98D741D7A2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D61FC3E-9CD7-4263-90B4-98D741D7A2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7D61FC3E-9CD7-4263-90B4-98D741D7A2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7D61FC3E-9CD7-4263-90B4-98D741D7A2E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
