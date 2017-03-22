@@ -116,6 +116,7 @@
             this.buttonAcht.TabIndex = 7;
             this.buttonAcht.Text = "8";
             this.buttonAcht.UseVisualStyleBackColor = true;
+            this.buttonAcht.Click += new System.EventHandler(this.buttonAcht_Click);
             // 
             // buttonNeun
             // 
