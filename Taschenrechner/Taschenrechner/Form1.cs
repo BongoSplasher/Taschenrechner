@@ -22,14 +22,19 @@ namespace Taschenrechner
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void rechnerTextBox_TextChanged(object sender, EventArgs e)
         {
 
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void buttonZwei_Click(object sender, EventArgs e)
         {
+            rechnerTextBox.AppendText("2");
+        }
 
+        private void buttonVier_Click(object sender, EventArgs e)
+        {
+            rechnerTextBox.AppendText("4");
         }
     }
 }

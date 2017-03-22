@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.rechnerTextBox = new System.Windows.Forms.RichTextBox();
             this.einLöschenButton = new System.Windows.Forms.Button();
             this.löschenVorherButton = new System.Windows.Forms.Button();
             this.allesLöschenButton = new System.Windows.Forms.Button();
@@ -54,13 +54,14 @@
             this.buttonGleich = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // richTextBox1
+            // rechnerTextBox
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(12, 12);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(264, 46);
-            this.richTextBox1.TabIndex = 1;
-            this.richTextBox1.Text = "";
+            this.rechnerTextBox.Location = new System.Drawing.Point(12, 12);
+            this.rechnerTextBox.Name = "rechnerTextBox";
+            this.rechnerTextBox.Size = new System.Drawing.Size(264, 46);
+            this.rechnerTextBox.TabIndex = 1;
+            this.rechnerTextBox.Text = "";
+            this.rechnerTextBox.TextChanged += new System.EventHandler(this.rechnerTextBox_TextChanged);
             // 
             // einLöschenButton
             // 
@@ -97,7 +98,7 @@
             this.vorzeichenÄndernButton.TabIndex = 5;
             this.vorzeichenÄndernButton.Text = "+/-";
             this.vorzeichenÄndernButton.UseVisualStyleBackColor = true;
-            this.vorzeichenÄndernButton.Click += new System.EventHandler(this.button4_Click);
+            this.vorzeichenÄndernButton.Click += new System.EventHandler(this.buttonVier_Click);
             // 
             // buttonSieben
             // 
@@ -143,6 +144,7 @@
             this.buttonVier.TabIndex = 10;
             this.buttonVier.Text = "4";
             this.buttonVier.UseVisualStyleBackColor = true;
+            this.buttonVier.Click += new System.EventHandler(this.buttonVier_Click);
             // 
             // wurzelButton
             // 
@@ -206,6 +208,7 @@
             this.buttonZwei.TabIndex = 18;
             this.buttonZwei.Text = "2";
             this.buttonZwei.UseVisualStyleBackColor = true;
+            this.buttonZwei.Click += new System.EventHandler(this.buttonZwei_Click);
             // 
             // buttonDrei
             // 
@@ -298,7 +301,7 @@
             this.Controls.Add(this.allesLöschenButton);
             this.Controls.Add(this.löschenVorherButton);
             this.Controls.Add(this.einLöschenButton);
-            this.Controls.Add(this.richTextBox1);
+            this.Controls.Add(this.rechnerTextBox);
             this.Name = "Form1";
             this.Text = "Rechner";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -308,7 +311,7 @@
 
         #endregion
 
-        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.RichTextBox rechnerTextBox;
         private System.Windows.Forms.Button einLöschenButton;
         private System.Windows.Forms.Button löschenVorherButton;
         private System.Windows.Forms.Button allesLöschenButton;
