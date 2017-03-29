@@ -108,6 +108,7 @@
             this.buttonSieben.TabIndex = 6;
             this.buttonSieben.Text = "7";
             this.buttonSieben.UseVisualStyleBackColor = true;
+            this.buttonSieben.Click += new System.EventHandler(this.buttonSieben_Click);
             // 
             // buttonAcht
             // 
@@ -127,6 +128,7 @@
             this.buttonNeun.TabIndex = 8;
             this.buttonNeun.Text = "9";
             this.buttonNeun.UseVisualStyleBackColor = true;
+            this.buttonNeun.Click += new System.EventHandler(this.buttonNeun_Click);
             // 
             // buttonMultiplikation
             // 
@@ -173,6 +175,7 @@
             this.buttonFünf.TabIndex = 14;
             this.buttonFünf.Text = "5";
             this.buttonFünf.UseVisualStyleBackColor = true;
+            this.buttonFünf.Click += new System.EventHandler(this.buttonFünf_Click);
             // 
             // buttonSechs
             // 
@@ -182,6 +185,7 @@
             this.buttonSechs.TabIndex = 15;
             this.buttonSechs.Text = "6";
             this.buttonSechs.UseVisualStyleBackColor = true;
+            this.buttonSechs.Click += new System.EventHandler(this.buttonSechs_Click);
             // 
             // buttonDivision
             // 
@@ -200,6 +204,7 @@
             this.buttonEins.TabIndex = 17;
             this.buttonEins.Text = "1";
             this.buttonEins.UseVisualStyleBackColor = true;
+            this.buttonEins.Click += new System.EventHandler(this.buttonEins_Click);
             // 
             // buttonZwei
             // 
@@ -219,6 +224,7 @@
             this.buttonDrei.TabIndex = 19;
             this.buttonDrei.Text = "3";
             this.buttonDrei.UseVisualStyleBackColor = true;
+            this.buttonDrei.Click += new System.EventHandler(this.buttonDrei_Click);
             // 
             // buttonSubtraktion
             // 
@@ -237,6 +243,7 @@
             this.buttonNull.TabIndex = 22;
             this.buttonNull.Text = "0";
             this.buttonNull.UseVisualStyleBackColor = true;
+            this.buttonNull.Click += new System.EventHandler(this.buttonNull_Click);
             // 
             // buttonPunkt
             // 

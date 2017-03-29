@@ -27,9 +27,24 @@ namespace Taschenrechner
 
         }
 
+        private void buttonNull_Click(object sender, EventArgs e)
+        {
+            rechnerTextBox.AppendText("0");
+        }
+
+        private void buttonEins_Click(object sender, EventArgs e)
+        {
+            rechnerTextBox.AppendText("1");
+        }
+
         private void buttonZwei_Click(object sender, EventArgs e)
         {
             rechnerTextBox.AppendText("2");
+        }
+
+        private void buttonDrei_Click(object sender, EventArgs e)
+        {
+            rechnerTextBox.AppendText("3");
         }
 
         private void buttonVier_Click(object sender, EventArgs e)
@@ -37,9 +52,29 @@ namespace Taschenrechner
             rechnerTextBox.AppendText("4");
         }
 
+        private void buttonFünf_Click(object sender, EventArgs e)
+        {
+            rechnerTextBox.AppendText("5");
+        }
+
+        private void buttonSechs_Click(object sender, EventArgs e)
+        {
+            rechnerTextBox.AppendText("6");
+        }
+
+        private void buttonSieben_Click(object sender, EventArgs e)
+        {
+            rechnerTextBox.AppendText("7");
+        }
+
         private void buttonAcht_Click(object sender, EventArgs e)
         {
+            rechnerTextBox.AppendText("8");
+        }
 
+        private void buttonNeun_Click(object sender, EventArgs e)
+        {
+            rechnerTextBox.AppendText("9");
         }
     }
 }
