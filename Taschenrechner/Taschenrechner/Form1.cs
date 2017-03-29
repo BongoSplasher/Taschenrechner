@@ -76,5 +76,13 @@ namespace Taschenrechner
         {
             rechnerTextBox.AppendText("9");
         }
+
+        private void einLöschenButton_Click(object sender, EventArgs e)
+        {
+          //  if (rechnerTextBox.TextLength > 0)
+            //{
+                //rechnerTextBox.Text.Remove(1, 1);
+          //  }
+        }
     }
 }

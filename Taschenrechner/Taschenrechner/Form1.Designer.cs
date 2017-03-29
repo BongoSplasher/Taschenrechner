@@ -71,6 +71,7 @@
             this.einLöschenButton.TabIndex = 2;
             this.einLöschenButton.Text = "<---";
             this.einLöschenButton.UseVisualStyleBackColor = true;
+            this.einLöschenButton.Click += new System.EventHandler(this.einLöschenButton_Click);
             // 
             // löschenVorherButton
             // 
