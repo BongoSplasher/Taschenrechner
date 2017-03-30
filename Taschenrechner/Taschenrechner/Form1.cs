@@ -79,10 +79,10 @@ namespace Taschenrechner
 
         private void einLöschenButton_Click(object sender, EventArgs e)
         {
-          //  if (rechnerTextBox.TextLength > 0)
-            //{
-                //rechnerTextBox.Text.Remove(1, 1);
-          //  }
+            if (rechnerTextBox.TextLength > 0)
+            {
+               rechnerTextBox.Text= rechnerTextBox.Text.Remove(rechnerTextBox.Text.Length -1, 1);
+            }
         }
     }
 }
