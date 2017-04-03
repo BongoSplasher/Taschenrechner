@@ -74,7 +74,7 @@ namespace Taschenrechner
 
         private void buttonNeun_Click(object sender, EventArgs e)
         {
-            rechnerTextBox.AppendText("9");
+            rechnerTextBox.AppendText("9");        
         }
 
         private void einLöschenButton_Click(object sender, EventArgs e)
